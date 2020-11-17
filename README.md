@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Fun fact: I :heart: :girl:s 
 
 
-[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]:(www.linkedin.com/in/saitalamarla)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/saitalamarla)
+
 
 
 
