@@ -16,11 +16,9 @@
 * Primary coding language: Java.
 * I’m currently working on my portfolio.
 * I am currently learning System Design & Web Architecture
-* I'm looking to collaborate on Open source project for Hacktoberfest
 * Competitive Programmer 
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: he/him
-* 🏠 Hogwarts House: Griffindor
 * 
 
 <table><tr><td valign="top" width="50%">
@@ -38,7 +36,7 @@
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saitalamarla&show_icons=true&theme=gotham" alt="Sai Talamarla | Stats" />
 
 </details>
 
